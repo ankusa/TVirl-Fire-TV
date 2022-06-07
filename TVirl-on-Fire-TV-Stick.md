@@ -12,7 +12,7 @@ On the Fire TV's _Settings_ page, go to _Live TV > Sync Sources_ and choose the 
 
 ![Sync Sources](https://i.imgur.com/plkVCe5l.png)
 
-You should see TVirl's initial setup screen. Follow [Matt Huisman's guide](https://www.matthuisman.nz/2019/01/live-au-iptv-channels-on-android.html) for Live Australian IPTV Channels or use your own playlist.
+You should see TVirl's initial setup screen. Follow [Matt Huisman's guide](https://www.matthuisman.nz/2019/01/live-au-iptv-channels-on-android.html) for Live Australian IPTV Channels playlists (_TVirl Settings_ section only) or use your own playlist.
 
 ![Playlist install success](https://i.imgur.com/dcNRmJjl.png)
 
