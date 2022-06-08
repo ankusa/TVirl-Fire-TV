@@ -1,3 +1,5 @@
+**NOTE: If you don't have the _Live TV_ tile in your Fire TV Settings, you may need to change your Amazon account country/region (_Content & Devices > Preferences > Country/Region Settings_ on the Amazon website) to United States and factory reset your device.**
+
 # Install TVirl app
 
 Modded TVirl APK is available [here](https://forums.whirlpool.net.au/go?https%3A%2F%2Fmega.nz%2Ffolder%2FaFVUVLYT%23pNEFZi3Y6wmSyWIsavkqLw). Only approved apps can work with Live TV and TVirl is not one of them. So there are different versions of the APK, each being TVirl disguised as a different approved app. _TVirl_0.5.3.3_com.sling.apk_ is TVirl disguised as Sling TV, for example. Choose the version of an app you're not using. If you use Sling TV, _don't_ choose that version.
