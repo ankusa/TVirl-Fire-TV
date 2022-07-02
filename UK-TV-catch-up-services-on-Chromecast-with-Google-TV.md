@@ -15,6 +15,7 @@ CBS Catchup|:x:|:x:
 [discovery+](https://play.google.com/store/apps/details?id=com.discovery.dplay)|:heavy_check_mark:|:heavy_check_mark:
 STV Player|:x:|:x:
 Pop Player|:x:|:x:
+[Sky News](https://play.google.com/store/apps/details?id=com.sky.news.androidtv)|:heavy_check_mark:|:heavy_check_mark:
 
 Notes:
 
