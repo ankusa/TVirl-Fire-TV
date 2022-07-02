@@ -18,9 +18,9 @@ Pop Player|:x:|:x:
 
 Notes:
 
-* For UKTV Play, a modded version of the Amazon Fire TV app would work on Chromecast with Google TV.
+* For UKTV Play, a [modded version](https://github.com/aarubui/firetvapkmod/releases) of the Amazon Fire TV app would work on Chromecast with Google TV.
 * Casting from the smartphone apps is an option.
-* For channel simulcast, you can also install [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv) and [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) and use [this playlist](https://uktv.vercel.app/tv.m3u8).
+* For channel simulcast, you can also install [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv) and [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) and use [this playlist](https://uktv.vercel.app/tv.m3u8) (copy link).
 
 ## Other services
 
