@@ -18,7 +18,6 @@ Pop Player|:x:|:x:
 
 Notes:
 
-* See also: [_CCwGTV VoD Services available in the UK (Comparison)_](https://www.reddit.com/r/Chromecast/comments/jbpkez/ccwgtv_vod_services_available_in_the_uk_comparison/) on Reddit
 * For UKTV Play, a modded version of the Amazon Fire TV app would work on Chromecast with Google TV.
 * Casting from the smartphone apps is an option.
 * For channel simulcast, you can also install [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv) and [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) and use [this playlist](https://uktv.vercel.app/tv.m3u8).
@@ -32,3 +31,9 @@ Sky Go|:x:
 [BT Sport](https://play.google.com/store/apps/details?id=com.bt.btsport)|:heavy_check_mark:
 [BBC Sounds](https://play.google.com/store/apps/details?id=uk.co.bbc.sounds)|:heavy_check_mark:
 NOW TV|:x:
+
+## Comparison table (October 2020)
+
+From [_CCwGTV VoD Services available in the UK (Comparison)_](https://www.reddit.com/r/Chromecast/comments/jbpkez/ccwgtv_vod_services_available_in_the_uk_comparison/) on Reddit
+
+[![Comparison table](https://preview.redd.it/ocjn95930at51.png?width=960&crop=smart&auto=webp&s=a1a7b197c3465787f63e1a0356c7b80a667aed52)](https://i.redd.it/ocjn95930at51.png)
