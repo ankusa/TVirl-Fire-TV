@@ -7,7 +7,7 @@ _Also for Android TVs (excluding FreeView, YouView, Amazon FireTV)_
 Platform|On demand|Channel simulcast
 :---|:---|:---
 [BBC iPlayer](https://play.google.com/store/apps/details?id=bbc.iplayer.android)|:heavy_check_mark:|:heavy_check_mark:
-[ITV Hub](https://play.google.com/store/apps/details?id=air.ITVMobilePlayer)|:heavy_check_mark:|:x:
+[ITV Hub](https://play.google.com/store/apps/details?id=air.ITVMobilePlayer)|:heavy_check_mark:|:heavy_check_mark:
 All4|:x:|:x:
 [My5](https://play.google.com/store/apps/details?id=com.channel5.my5)|:heavy_check_mark:|:heavy_check_mark:
 [UKTV Play](https://github.com/aarubui/firetvapkmod/releases)|:grey_exclamation:|:x:
