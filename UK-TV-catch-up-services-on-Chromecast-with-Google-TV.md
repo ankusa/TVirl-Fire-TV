@@ -7,10 +7,10 @@ _Also for Android TVs (excluding FreeView, YouView, Amazon FireTV)_
 Platform|On demand|Channel simulcast
 :---|:---|:---
 [BBC iPlayer](https://play.google.com/store/apps/details?id=bbc.iplayer.android)|:heavy_check_mark:|:heavy_check_mark:
-[ITV Hub](https://play.google.com/store/apps/details?id=air.ITVMobilePlayer)|:heavy_check_mark:|:heavy_check_mark:
+[ITVX](https://play.google.com/store/apps/details?id=air.ITVMobilePlayer)|:heavy_check_mark:|:heavy_check_mark:
 All4|:x:|:x:
 [My5](https://play.google.com/store/apps/details?id=com.channel5.my5)|:heavy_check_mark:|:heavy_check_mark:
-[UKTV Play](https://github.com/aarubui/firetvapkmod/releases)|:grey_exclamation:|:x:
+[UKTV Play](https://play.google.com/store/apps/details?id=uk.co.uktv.dave)|:heavy_check_mark:|:x:
 CBS Catchup|:x:|:x:
 [discovery+](https://play.google.com/store/apps/details?id=com.discovery.dplay)|:heavy_check_mark:|:heavy_check_mark:
 STV Player|:x:|:x:
@@ -19,7 +19,6 @@ Pop Player|:x:|:x:
 
 Notes:
 
-* For UKTV Play, a [modded version](https://github.com/aarubui/firetvapkmod/releases) of the Amazon Fire TV app would work on Chromecast with Google TV.
 * Casting from the smartphone apps is an option.
 
 ## Other services
